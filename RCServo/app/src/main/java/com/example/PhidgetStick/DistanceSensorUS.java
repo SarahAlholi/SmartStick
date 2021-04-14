@@ -21,9 +21,7 @@ public class DistanceSensorUS extends Activity {
     DistanceSensor ch;
     SeekBar dataIntervalBar;
     CheckBox quietModeBox;
-
     Toast errToast;
-
     int minDataInterval;
 
     /** Called when the activity is first created. */

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RC Servo Example</string>
+    <string name="unknown_val">Unk.</string>
+    <string name="click_third_activity">click third activity</string>
+    <string name="this_s_my_first_app">This s my first app!</string>
+    <string name="click_second_activity">click second activity</string>
+
+</resources>
